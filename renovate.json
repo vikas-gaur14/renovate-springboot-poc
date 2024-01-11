@@ -3,5 +3,5 @@
   "extends": [
     "config:recommended"
   ],
-  "baseBranches": ["renovate-springboot-poc"]
+  "baseBranches": ["mytestbranch"]
 }

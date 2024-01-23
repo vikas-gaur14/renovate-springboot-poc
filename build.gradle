@@ -25,6 +25,9 @@ dependencies {
         implementation 'com.fasterxml:jackson-xml-databind:0.5.2'
 	// https://mvnrepository.com/artifact/com.azure/azure-cosmos
         implementation 'com.azure:azure-cosmos:4.53.1'
+	// post disabling mvn central
+         implementation 'io.micrometer:micrometer-tracing-bridge-brave:1.2.0'
+
 	
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }

@@ -7,6 +7,10 @@
     {
       "enabled": false,
       "matchHost": "https://repo1.maven.org/maven2"
+    },
+    {
+      "enabled": false,
+      "matchHost": "https://repo.maven.apache.org/maven2"
     }
   ]
   "baseBranches": ["mytestbranch"]

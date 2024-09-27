@@ -19,7 +19,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-actuator'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
         // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core
-        implementation 'com.fasterxml.jackson.core:jackson-core:2.15.3'
+        implementation 'com.fasterxml.jackson.core:jackson-core:2.18.0'
 	//implementation 'com.google.code.gson:gson:2.8.8'
 	// https://mvnrepository.com/artifact/com.fasterxml/jackson-xml-databind
         implementation 'com.fasterxml:jackson-xml-databind:0.5.2'

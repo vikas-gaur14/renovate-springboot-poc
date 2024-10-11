@@ -24,7 +24,7 @@ dependencies {
 	// https://mvnrepository.com/artifact/com.fasterxml/jackson-xml-databind
         implementation 'com.fasterxml:jackson-xml-databind:0.5.2'
 	// https://mvnrepository.com/artifact/com.azure/azure-cosmos
-        implementation 'com.azure:azure-cosmos:4.53.1'
+        implementation 'com.azure:azure-cosmos:4.64.0'
 	
          // https://mvnrepository.com/artifact/io.micrometer/micrometer-core
          implementation 'io.micrometer:micrometer-core:1.11.6'

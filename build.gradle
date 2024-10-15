@@ -27,7 +27,7 @@ dependencies {
         implementation 'com.azure:azure-cosmos:4.53.1'
 	
          // https://mvnrepository.com/artifact/io.micrometer/micrometer-core
-         implementation 'io.micrometer:micrometer-core:1.11.6'
+         implementation 'io.micrometer:micrometer-core:1.13.6'
 
 	
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
